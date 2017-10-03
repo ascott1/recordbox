@@ -1,0 +1,16 @@
+
+body {
+  background: #000;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.wrap {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 8em 2em;
+}
